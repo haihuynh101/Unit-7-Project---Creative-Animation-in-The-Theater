@@ -1,0 +1,14 @@
+Media Citations:
+"Shooting image" found at https://www.gettyimages.com/photos/kid-shooting-hoops
+"Walking on concrete sound" found at https://pixabay.com/sound-effects/search/walking%20sound/
+"basketball going through net " found at https://www.istockphoto.com/photos/basketball-basketball-hoop-basketball-goal-park
+
+
+AI Citations:
+Used ChatGPT to debug my Draw scene method because the image wasnt getting smaller even after I did the size substraction
+The resolution was to redraw it after the size is changed and clear it so it doesnt overlap 
+
+Used ChatGPT for input on how to add arrays within the X position 
+Solution was to images[1].getFileName
+
+
